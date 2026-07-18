@@ -9,4 +9,6 @@ The whole system is powered by a 11.1 V 2200 mAh lithium polymer battery. In my 
 
 Then, the wireless system is that the ESP32’s Bluetooth chip works and acts as a discoverable device to connect to, and with the Dabble app, gamepad, and digital mode using the arrows in it, the car is controlled.
 
+Full youtube video:https://youtube.com/shorts/i4z68DzTvhQ?feature=share
+
 <img width="1280" height="576" alt="WhatsApp Image 2026-07-18 at 9 56 32 PM" src="https://github.com/user-attachments/assets/3fe2894a-71ec-4ef4-b58e-db858482ee55" />
