@@ -1,0 +1,12 @@
+Component,Description,Quantity,Unit Price (EGP),Total Price (EGP),Source Link
+ESP32 Dev1 WROOM Module,"30-pin Development Board with WiFi and Bluetooth (CP2102 chip), acts as the main controller via Bluetooth.",1,320.0,320.0,https://www.ram-e-shop.com/shop/kit-esp32-esp32s-30pin-esp-32s-30pin-development-board-wifi-bluetooth-with-new-cp2102-chip-7433
+L298N Motor Driver Module,"Dual H-Bridge Motor Driver Red Board, controls direction and speed of the two DC motors.",1,140.0,140.0,https://www.ram-e-shop.com/shop/kit-l298-red-l298-module-red-board-dual-h-bridge-motor-driver-using-l298n-7084
+TT Mini DC Gearbox Motors (Pair),Pair of 2 motors with back shaft for driving the differential steering wheels.,1,110.0,110.0,https://www.ram-e-shop.com/shop/ro-motor-tt-mini-dc-gearbox-motors-pair-2-motors-with-back-shaft-9455
+Robot Wheels 65x26mm (Pair),Pair of 2 tires (RW002) for mini DC gearbox yellow motors.,1,75.0,75.0,https://www.ram-e-shop.com/shop/ro-wheel-rw002-robot-wheels-65x26mm-for-mini-dc-gearbox-yellow-motors-2-tires-rw002-8808
+4-Channel DC Power Distributor,Power distribution circuit used to safely manage thick battery wires to the motor driver.,1,90.0,90.0,https://fares-pcb.com/product/4-channel-dc-power-distributor/
+11.1V 2200mAh LiPo Battery,3S Lithium Polymer battery providing the primary power source for the entire vehicle.,1,950.0,950.0,Custom
+Jumper Wires & Connecting Wires,"Wiring used to connect ESP32, Motor Driver, and Power Distribution Board.",1,N/A,N/A,In stock
+Hot Glue / Adhesive,Structural adhesive for holding components on the chassis.,1,N/A,N/A,In stock
+Cardboard,Main material for creating the vehicle chassis/body.,1,N/A,N/A,In stock
+Desk Chair Wheel,Used as a caster wheel for stability and free multi-directional movement.,1,N/A,N/A,In stock
+Soldering Iron & Solder Wire,Tools used for establishing permanent electrical connections.,1,N/A,N/A,In stock
